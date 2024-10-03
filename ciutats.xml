@@ -1,0 +1,16 @@
+<world>
+<ciudades>
+<nombre>Nueva Delhi</nombre>
+<pais continente="Asia">India</pais>
+</ciudades>
+<ciudades>
+<nombre>Lisboa</nombre>
+<pais continente="Europa">Portugal</pais>
+</ciudades>
+<ciudades>
+<nombre>El Cairo</nombre>
+<pais continente="Africa">Egipto</pais>
+</ciudades>
+</world>
+
+
